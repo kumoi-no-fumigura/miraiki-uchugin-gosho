@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/miraiki-uchugin-gosho",
  "yomi": "みらいきうちゅうぎんごしょう",
  "category": "注釈",
- "description": null,
+ "description": {
+  "kind": "歌学書（注釈）",
+  "era": "慶長12年（1607）1月",
+  "author": "後陽成天皇",
+  "desc": "藤原定家に仮託される「未来記」「雨中吟」の歌に、後陽成天皇が注釈を加えたもの。古い抄物と師説をもとにしたと奥書に記し、慶長12年1月の年記がある。"
+ },
  "editions": [
   {
    "pid": "945314",
